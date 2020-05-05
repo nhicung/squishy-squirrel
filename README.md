@@ -38,7 +38,7 @@ To play Squishy Squirrel:
 ![](images/story.png)
 ### Game Play Scene
 ![](images/gameplay.png)
-![](images/gameplayGif.gif)
+![](images/gameplayGif.gif=262*458)
 ### Setting Scene
 ![](images/setting.png)
 
