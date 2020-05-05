@@ -19,7 +19,7 @@ Install Unity 2018.3.4f1 to open this project: https://unity3d.com/get-unity/dow
 
 ### Installing
 
-1. Download Unty from the link
+1. Download Unity from the link
 2. Follow the instruction and install it to your device
 3. Open Unity and run the project
 
