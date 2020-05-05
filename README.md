@@ -2,9 +2,12 @@
 This is a 2D mobile game implemented with Unity and C#. The game is created to raise on-campus awareness of squirrel's nutrition.
 
 ## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
+* [Getting Started](#getting-started)
+* [Feature](#feature)
+* [View](#view)
+* [Technology](#technology)
+* [License[(#licence)
+* [Acknowledgement](#acknowledge)
 
 ## Getting Started
 
@@ -22,11 +25,15 @@ Install Unity 2018.3.4f1 to open this project: https://unity3d.com/get-unity/dow
 
 ## Feature
 
+To play Squishy Squirrel:
+* Player can control the squirrel to the left and right 
+* Follow instruction to pick the items that can make squirrel gain or lose health 
+
 ## View
 
-## Built With
+## Technology
 
-* [Unity](https://unity.com)
+* Build with [Unity](https://unity.com)
 
 ## License
 
@@ -34,6 +41,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Contributors: Thu Nguyen, Musa Khan
+* Instructor: Professor Monica M. McGill
+* Inspiration: Knox College's squirrels
