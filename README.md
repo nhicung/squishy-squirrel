@@ -6,7 +6,7 @@ This is a 2D mobile game implemented with Unity and C#. The game is created to r
 * [Feature](#feature)
 * [View](#view)
 * [Technology](#technology)
-* [License[(#licence)
+* [License](#licence)
 * [Acknowledgement](#acknowledge)
 
 ## Getting Started
