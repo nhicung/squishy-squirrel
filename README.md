@@ -38,8 +38,7 @@ To play Squishy Squirrel:
 ![](images/story.png)
 ### Game Play Scene
 ![](images/gameplay.png)
-<img src="https://github.com/nhicung/SquishySquirrel/blob/master/images/gameplayGif.gif" width="200" height="400" />
-![](images/gameplayGif.gif =250x250)
+<img src="https://github.com/nhicung/SquishySquirrel/blob/master/images/gameplayGif.gif" width="262" height="458" />
 ### Setting Scene
 ![](images/setting.png)
 
