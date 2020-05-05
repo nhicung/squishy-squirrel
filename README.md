@@ -44,7 +44,7 @@ To play Squishy Squirrel:
 
 ## Technology
 
-* Build with [Unity](https://unity.com)
+* Built with [Unity](https://unity.com)
 
 ## License
 
