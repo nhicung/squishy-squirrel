@@ -31,6 +31,10 @@ To play Squishy Squirrel:
 
 ## View
 
+### Title Scene
+### Game Play Scene
+### Setting Scene
+
 ## Technology
 
 * Build with [Unity](https://unity.com)
