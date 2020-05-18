@@ -32,15 +32,15 @@ To play Squishy Squirrel:
 ## View
 
 ### Title Scene
-![](images/Menu.png)
+<img src="https://github.com/nhicung/SquishySquirrel/blob/master/images/Menu.png" width="262" height="458" />
 ### Instruction Scene
-![](images/Instruction.png)
-![](images/story.png)
+<img src="https://github.com/nhicung/SquishySquirrel/blob/master/images/Instruction.png" width="262" height="458" />
+<img src="https://github.com/nhicung/SquishySquirrel/blob/master/images/story.png" width="262" height="458" />
 ### Game Play Scene
-![](images/gameplay.png)
+<img src="https://github.com/nhicung/SquishySquirrel/blob/master/images/gameplay.png" width="262" height="458" />
 <img src="https://github.com/nhicung/SquishySquirrel/blob/master/images/gameplayGif.gif" width="262" height="458" />
 ### Setting Scene
-![](images/setting.png)
+<img src="https://github.com/nhicung/SquishySquirrel/blob/master/images/setting.png" width="262" height="458" />
 <img src="https://github.com/nhicung/SquishySquirrel/blob/master/images/paused.png" width="262" height="458" />
 
 ## Technology
